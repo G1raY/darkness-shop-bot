@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.db
+Users/
+AutoCookies/
+Cookies/
+orders.json
+users.json
